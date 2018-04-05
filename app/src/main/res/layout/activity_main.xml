@@ -55,14 +55,14 @@
             android:layout_width="wrap_content"
             android:layout_weight="2"
             android:layout_height="0dp"
-            android:text="@string/text_city_los_angeles"
+            android:text="@string/text_city_bogota"
             android:layout_margin="10dp"
             android:layout_gravity="center_horizontal"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_weight="2"
             android:layout_height="0dp"
-            android:text="@string/text_city_los_angeles"
+            android:text="@string/text_city_madrid"
             android:layout_margin="10dp"
             android:layout_gravity="center_horizontal"/>
     </LinearLayout>
@@ -80,7 +80,7 @@
             android:layout_width="wrap_content"
             android:layout_weight="2"
             android:layout_height="0dp"
-            android:text="@string/text_hour_example"
+            android:text="@string/text_hour_los_angeles"
             android:layout_margin="10dp"
             android:layout_gravity="center_horizontal"/>
 
@@ -88,14 +88,14 @@
             android:layout_width="wrap_content"
             android:layout_weight="2"
             android:layout_height="0dp"
-            android:text="@string/text_hour_example"
+            android:text="@string/text_hour_bogota"
             android:layout_margin="10dp"
             android:layout_gravity="center_horizontal"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_weight="2"
             android:layout_height="0dp"
-            android:text="@string/text_hour_example"
+            android:text="@string/text_hour_madrid"
             android:layout_margin="10dp"
             android:layout_gravity="center_horizontal"/>
     </LinearLayout>

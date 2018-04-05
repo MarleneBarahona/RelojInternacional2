@@ -6,5 +6,10 @@
     <string name="text_city_example">20 March, San Salvador</string>
     <string name="activity_main_title">Titulo 1</string>
     <string name="text_city_los_angeles">Los Angeles</string>
+    <string name="text_city_bogota">Bogota</string>
+    <string name="text_city_madrid">Madrid</string>
+    <string name="text_hour_los_angeles">12:00 MD</string>
+    <string name="text_hour_bogota">9:00 PM</string>
+    <string name="text_hour_madrid">5:00 AM</string>
     <string name="power_by_marlene">Power By Marlene</string>
 </resources>
